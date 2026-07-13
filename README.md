@@ -2,39 +2,29 @@
 
 **I make software that overreacts.**
 
-Keystrokes explode. Elytras equip themselves. Inventories take out their own trash.
-None of it had a reason to exist. All of it ships anyway.
+Minecraft mods where typing causes explosions. A Telegram client rebuilt the way I want it.
+AI video pipelines crammed onto one 16 GB GPU that deserves a vacation. None of it had a
+reason to exist — all of it ships anyway.
+
+## What I love
+
+- **Rebuilding winners.** Take a proven thing, study how it *really* works, rebuild it better.
+  Reference fidelity over ego.
+- **Local-first AI.** If it can run on my own GPU, it will. Cloud is a last resort.
+- **Systematizing wins.** Anything that works twice becomes a script, a pipeline, or a repo
+  within the hour.
+- **Pixel-level polish.** A 2 px offset is a release blocker. I will see it. It will haunt me.
+
+## A little personality
+
+Night owl — the best commits happen at 3 AM. Impatient with waiting, endlessly patient with
+iteration: ten rework rounds are fine, five idle minutes are not. I verify everything with my
+own eyes before I believe it. Childhood dream: remaking Alan Becker-style stickman fights —
+half of my AI experiments are secretly about that. Fueled by Mobile Legends, fighting games,
+and shows about people who should absolutely not be role models.
 
 ---
 
-## ☢️ Cursed, but polished — Fabric mods (MC 26.1.2)
-
-| Mod | What it does to you |
-|---|---|
-| [Brutal Typing](https://github.com/dev-limucc/brutaltyping) | Every keystroke detonates — explosions, fire and screen shake that scale with your typing speed |
-| [ElytraWEEE](https://github.com/dev-limucc/elytraweee) | Hold a firework. Jump. Fly. The mod handles the wardrobe |
-| [Glint Everything](https://github.com/dev-limucc/glint-everything) | Any item sparkles — you decide what deserves it |
-| [Animated GUI](https://github.com/dev-limucc/animated-gui) | Minecraft's instant menus, taught to glide |
-
-## ✅ Suspiciously useful
-
-| Repo | |
-|---|---|
-| [Block UN-renderer](https://github.com/dev-limucc/block-unrenderer) | Sodium-compatible: hide any block client-side with one keybind |
-| [Trashventory](https://github.com/dev-limucc/trashventory) | A server-side `/trash` bin that empties itself |
-| [HISTB?](https://github.com/dev-limucc/histb) | *Haven't I Seen This Before?* — scans the world for builds matching your saved patterns |
-| [Nekograph](https://github.com/dev-limucc/nekograph-source) | Telegram client fork (Nekogram lineage) with power-user features |
-
-## 🧪 Weird AI, one tired RTX 5060 Ti
-
-| Repo | |
-|---|---|
-| [ltx-union-control-av](https://github.com/dev-limucc/comfyui-ltx-union-control-av) | ComfyUI LTX 2.3 workflow: joint audio-video generation with IC-LoRA union control |
-| [ltx-obese-v2v](https://github.com/dev-limucc/comfyui-ltx-obese-v2v) | Body-transformation video-to-video. Yes, really |
-| [ellen-bot](https://github.com/dev-limucc/ellen-bot) | 🦈 AI assistant that is cool, aloof, and secretly helpful |
-
----
-
-🧩 Mods also live on **[Modrinth → Limucc](https://modrinth.com/user/Limucc)**
+🧩 Mods live on **[Modrinth → Limucc](https://modrinth.com/user/Limucc)**
 
 *House rule: if a feature can have screen shake, it will have screen shake.*
